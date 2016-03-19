@@ -12,7 +12,6 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity {
 
     // Hello Chetan
-
     // New Comment by Chetan k
 
     @Override
