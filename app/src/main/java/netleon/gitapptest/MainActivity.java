@@ -13,8 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
     // Hello Chetan
 
-    // khjgkjhf
-
     // New Comment by Chetan k
 
     @Override
